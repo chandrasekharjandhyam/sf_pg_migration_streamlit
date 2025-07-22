@@ -1,0 +1,10 @@
+{
+    "default": {
+        "name": "US PROD",
+        "account": "tia44470",
+        "warehouse": "ETL_PUBLISH",
+        "username": "e_dguild_pd",
+        "password": "Num3r!fy123",
+        "role": "SYSADMIN"
+    }
+}
