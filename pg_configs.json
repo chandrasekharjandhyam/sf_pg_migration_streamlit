@@ -3,22 +3,22 @@
         "name": "Local Development",
         "host": "localhost",
         "port": 5433,
-        "username": "postgres",
-        "password": "Num3r!fy"
+        "username": "",
+        "password": ""
     },
     "prod_server": {
         "name": "Performance Server",
-        "host": "prod-postgres.company.com",
+        "host": "",
         "port": 5432,
-        "username": "app_user",
-        "password": "secure_password",
+        "username": "",
+        "password": "",
         "database": "main_db"
     },
     "staging": {
         "name": "Staging Environment",
-        "host": "staging-db.company.com",
+        "host": "",
         "port": 5433,
-        "username": "staging_user",
-        "password": "staging_pass"
+        "username": "",
+        "password": ""
     }
 }
